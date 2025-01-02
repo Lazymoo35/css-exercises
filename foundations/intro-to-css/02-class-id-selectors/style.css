@@ -1,0 +1,18 @@
+.normal {
+    background-color:#ffc0cb;
+    font-family:"Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#special {
+    color:#0000ff;
+    font-size:36px;
+}
+
+#another-special {
+    background-color: #008000;
+    font-weight: bold;
+}
